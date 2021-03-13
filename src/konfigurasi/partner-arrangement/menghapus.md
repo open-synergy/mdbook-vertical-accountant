@@ -1,0 +1,1 @@
+# Menghapus Partner Arrangement
