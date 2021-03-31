@@ -24,12 +24,12 @@
 13. <a name="l13">[Tambah](./menambahkan-signing-partner.md)/[Modifikasi](./memodifikasi-signing-partner.md)/[Hapus](./menghapus-signing-partner.md) **Signing Partner**</a>. Ulangi langkah ini sampai **Signing Partner** sesuai dengan keinginan.
 14. Beralih ke tab **[Opinions](./penjelasan.md#tab-opinions)**.
 15. Aktifkan/ Deaktifkan **[Opinion Required](./penjelasan.md#field-opinion-required)** jika dibutuhkan. Tidak wajib diisi.
-16. <a name="l16">[Tambah](./menambahkan-opini.md)/[Modifikasi](./memodifikasi-opini.md)/[Hapus](./menghapus-opini.md) **Opinion**</a>. Ulangi langkah ini sampai **Opinion** sesuai dengan keinginan.
+16. <a name="l16">[Tambah](./menambahkan-opini.md)/[Hapus](./menghapus-opini.md) **Opinion**</a>. Ulangi langkah ini sampai **Opinion** sesuai dengan keinginan.
 17. Beralih ke tab **[Quality Control](./penjelasan.md#tab-quality-control)**.
 18. <a name="l18">[Tambah](./menambahkan-pertanyaan.md)/[Modifikasi](./memodifikasi-pertanyaan.md)/[Hapus](./menghapus-pertanyaan.md) **Question**</a>. Ulangi langkah ini sampai **Question** sesuai dengan keinginan.
 19. Beralih ke tab **[Methods](./penjelasan.md#tab-methods)**.
 20. Aktifkan/ Deaktifkan **[Method Required](./penjelasan.md#field-method-required)** jika dibutuhkan. Tidak wajib diisi.
-21. <a name="l21">[Tambah](./menambahkan-method.md)/[Modifikasi](./memodifikasi-method.md)/[Hapus](./menghapus-method.md) **Method**</a>. Ulangi langkah ini sampai **Method** sesuai dengan keinginan.
+21. <a name="l21">[Tambah](./menambahkan-method.md)/[Hapus](./menghapus-method.md) **Method**</a>. Ulangi langkah ini sampai **Method** sesuai dengan keinginan.
 22. Beralih ke tab **[Policy](./penjelasan.md#tab-policy)**.
 23. Pilih dan sesuaikan **[Allowed To Confirm](./penjelasan.md#field-allowed-confirm)** jika dibutuhkan. Tidak wajib diisi.
 24. Pilih dan sesuaikan **[Allowed To Validate](./penjelasan.md#field-allowed-validate)** jika dibutuhkan. Tidak wajib diisi.
