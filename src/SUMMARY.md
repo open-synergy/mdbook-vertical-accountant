@@ -53,6 +53,8 @@
         - [Menghapus Assurance Report](./transaksi/assurance-report/menghapus.md)    
         - [Mengkonfirmasi Assurance Report](./transaksi/assurance-report/mengkonfirmasi.md)    
         - [Memvalidasi Assurance Report](./transaksi/assurance-report/memvalidasi.md)    
+        - [Memilih Jawaban Item Pertanyaan Qualitative](./transaksi/assurance-report/memilih-jawaban-qualitative.md)
+        - [Mengisi Jawaban Item Pertanyaan Quantitative](./transaksi/assurance-report/mengisi-jawaban-quantitative.md)
         - [Membatalkan Assurance Report](./transaksi/assurance-report/membatalkan.md)    
         - [Merestart Assurance Report](./transaksi/assurance-report/merestart.md)    
     - [Non-Assurance Report](./transaksi/non-assurance-report.md)        
