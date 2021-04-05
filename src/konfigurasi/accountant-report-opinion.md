@@ -1,6 +1,6 @@
 # Accountant Report Opinion
 
-*Accountant Report Opinion* adalah fitur yang digunakan untuk konfigurasi accountant report opinion.
+*Accountant Report Opinion* adalah fitur yang digunakan untuk mengatur master data opini assurance report
 
 - [Penjelasan Accountant Report Opinion](./accountant-report-opinion/penjelasan.md)
 - [Membuat Accountant Report Opinion](./accountant-report-opinion/membuat.md)
