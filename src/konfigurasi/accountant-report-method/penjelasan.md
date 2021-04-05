@@ -10,7 +10,7 @@ Informasi pada *Accountant Report Method* dibagi menjadi beberapa bagian, yaitu:
 
 #### <a name="field-method">Method</a>
 
-Metode.
+Nama Standar Akuntansi Keuangan (SAK)
 
 #### <a name="field-code">Code</a>
 
