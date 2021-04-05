@@ -13,7 +13,6 @@
 ![](../../img/accountant-report-opinion/tombol-edit.png)
 
 4. Deaktifkan **[Active](./penjelasan.md#field-active)**.
-
 5. Klik tombol **Save** pada bagian atas-kiri form.
 
 ![](../../img/accountant-report-opinion/tombol-simpan-modifikasi.png)
