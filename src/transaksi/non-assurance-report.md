@@ -1,6 +1,6 @@
 # Non-Assurance Report
 
-*Non-Assurance Report* adalah fitur yang digunakan untuk transaksi non-assurance report.
+*Non-Assurance Report* adalah fitur yang digunakan untuk mencatat dan memproses laaporan pekerjaan KAP yang bersifat non-asersi (*non-assurance*)
 
 - [Penjelasan Non-Assurance Report](./non-assurance-report/penjelasan.md)
 - [Membuat Non-Assurance Report](./non-assurance-report/membuat.md)
