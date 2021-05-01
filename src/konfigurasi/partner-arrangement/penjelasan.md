@@ -27,26 +27,7 @@ Tanggal arrangement.
 
 ![](../../img/partner-arrangement/tab-partner.png)
 
-*Pop Up Partners* saat *add an item* diklik.
-
-![](../../img/partner-arrangement/tab-partner-detail-1.png)
-![](../../img/partner-arrangement/tab-partner-detail-2.png)
-
-#### <a name="field-name">Name</a>
-
-Nama partner.
-
-#### <a name="field-phone">Phone</a>
-
-Nomor telepon partner.
-
-#### <a name="field-email">Email</a>
-
-Alamat email partner.
-
-#### <a name="field-main-sector">Main Sector</a>
-
-Nama sektor utama partner.
+Nama-nama partner pada KAP/KJA
 
 #### <a name="tab-note">TAB NOTE</a>
 
@@ -62,16 +43,16 @@ Catatan.
 
 #### <a name="field-can-confirm">Can Confirm</a>
 
-Kebijakan untuk dapat mengkonfirmasi.
+Berhak/tidaknya user untuk dapat mengkonfirmasi partner arrangement.
 
 #### <a name="field-can-validate">Can Validate</a>
 
-Kebijakan untuk dapat memvalidasi.
+Berhak/tidaknya user untuk dapat memvalidasi partner arrangement.
 
 #### <a name="field-can-cancel">Can Cancel</a>
 
-Kebijakan untuk dapat membatalkan.
+Berhak/tidaknya user untuk dapat membatalkan partner arrangement.
 
 #### <a name="field-can-restart">Can Restart</a>
 
-Kebijakan untuk dapat merestart.
+Berhak/tidaknya user untuk dapat merestart partner arrangement.
