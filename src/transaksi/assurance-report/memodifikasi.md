@@ -25,10 +25,10 @@
 10. Pilih dan sesuaikan **[Accountant Service](./penjelasan.md#field-accountant-service)** jika dibutuhkan. Wajib diisi.
 11. Isi dan sesuaikan **[Subsequent Job Num](./penjelasan.md#field-subsequent-job)** jika dibutuhkan. Tidak wajib diisi.
 12. Pilih dan sesuaikan **[Restatement Report](./penjelasan.md#field-restatement-report)** jika dibutuhkan. Tidak wajib diisi.
-13. Pilih dan sesuaikan **[Method](./penjelasan.md#field-method)** jika dibutuhkan. Tidak wajib diisi.
+13. Pilih dan sesuaikan **[Method](./penjelasan.md#field-method)** jika dibutuhkan. Wajib/tidak diisi tergantung dari accountant service yang dipilih.
 14. Pilih dan sesuaikan **[Date](./penjelasan.md#field-date)** jika dibutuhkan. Wajib diisi.
 15. Pilih dan sesuaikan **[Signing Accountant](./penjelasan.md#field-signing-accountant)** jika dibutuhkan. Wajib diisi.
-16. Pilih dan sesuaikan **[Opinion](./penjelasan.md#field-opinion)** jika dibutuhkan. Tidak wajib diisi.
+16. Pilih dan sesuaikan **[Opinion](./penjelasan.md#field-opinion)** jika dibutuhkan. Wajib/tidak diisi tergantung dari accountant service yang dipilih.
 17. Pilih dan sesuaikan **[Main Report Attachment](./penjelasan.md#field-main-report-attachment)** jika dibutuhkan. Tidak wajib diisi.
 18. Beralih ke tab **[Client Informations](./penjelasan.md#tab-client-informations)**.
 19. Pilih dan sesuaikan **[Information Based On](./penjelasan.md#field-information-based-on)** jika dibutuhkan. Tidak wajib diisi.
