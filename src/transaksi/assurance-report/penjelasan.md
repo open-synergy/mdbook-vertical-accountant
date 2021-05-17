@@ -167,19 +167,19 @@ Catatan.
 
 #### <a name="field-can-confirm">Can Confirm</a>
 
-Kebijakan untuk dapat mengkonfirmasi.
+Berhak/tidaknya user aktif untuk dapat mengkonfirmasi assurance report.
 
 #### <a name="field-can-validate">Can Validate</a>
 
-Kebijakan untuk dapat memvalidasi.
+Berhak/tidaknya user aktif untuk dapat memvalidasi assurance report.
 
 #### <a name="field-can-cancel">Can Cancel</a>
 
-Kebijakan untuk dapat membatalkan.
+Berhak/tidaknya user aktif untuk dapat membatalkan assurance report.
 
 #### <a name="field-can-restart">Can Restart</a>
 
-Kebijakan untuk dapat merestart.
+Berhak/tidaknya user aktif untuk dapat merestart assurance report.
 
 #### <a name="tab-qr-code">TAB QR CODE</a>
 

@@ -37,7 +37,10 @@ Kode accountant service.
 
 #### <a name="field-sequence-creation">Sequence Creation Method</a>
 
-Metode nomor urut pembuatan accountant service.
+Metode nomor urut pembuatan accountant service. Metode terdiri dari 2 (dua) pilihan, yaitu:
+
+1. *Standard*. Nomor urut ditentukan secara standar.
+2. *Python Code*. Nomor urut ditentukan secara kustom berdasarkan kode Python.
 
 #### <a name="tab-python-code">TAB PYTHON CODE</a>
 
@@ -65,19 +68,19 @@ Nomor urut.
 
 #### <a name="field-allowed-to-confirm">Allowed To Confirm</a>
 
-Apabila aktif user dapat mengkonfirmasi.
+Berhak/tidaknya user aktif untuk dapat mengkonfirmasi accountant service.
 
 #### <a name="field-allowed-to-validate">Allowed To Validate</a>
 
-Apabila aktif user dapat memvalidasi.
+Berhak/tidaknya user aktif untuk dapat memvalidasi accountant service.
 
 #### <a name="field-allowed-to-cancel">Allowed To Cancel</a>
 
-Apabila aktif user dapat membatalkan.
+Berhak/tidaknya user aktif untuk dapat membatalkan accountant service.
 
 #### <a name="field-allowed-to-restart">Allowed To Restart</a>
 
-Apabila aktif user dapat merestart.
+Berhak/tidaknya user aktif untuk dapat merestart accountant service.
 
 #### <a name="tab-opinions">TAB OPINIONS</a>
 
@@ -87,25 +90,14 @@ Apabila aktif user dapat merestart.
 
 Penanda dibutuhkan opinion aktif.
 
-*Pop Up Allowed Opinion* saat *add an item* diklik.
-
-![](../../img/accountant-service/tab-opinions-detail.png)
-
-#### <a name="field-opinion">Opinion</a>
-
-Nama opini.
-
-#### <a name="field-opinion-code">Code</a>
-
-Kode opini.
-
 #### <a name="tab-quality-control">TAB QUALITY CONTROL</a>
 
 ![](../../img/accountant-service/tab-quality-control.png)
 
 *Pop Up Questions* saat *add an item* diklik.
 
-![](../../img/accountant-service/tab-quality-control-detail.png)
+![](../../img/accountant-service/tab-quality-control-detail-quantitative.png)
+![](../../img/accountant-service/tab-quality-control-detail-qualitative.png)
 
 #### <a name="field-question">Question</a>
 
@@ -117,7 +109,9 @@ Urutan pertanyaan.
 
 #### <a name="field-question-type">Type</a>
 
-Tipe jawaban untuk kontrol kualitas (kualitatif atau kuantitatif).
+Tipe jawaban untuk kontrol kualitas (kuantitatif atau kualitatif).
+
+***Type Quantitative***
 
 #### <a name="field-min-value">Min. Value</a>
 
@@ -126,6 +120,8 @@ Nilai minimum jawaban.
 #### <a name="field-max-value">Max. Value</a>
 
 Nilai maksimum jawaban.
+
+***Type Qualitative***
 
 #### <a name="field-value">Value</a>
 
@@ -143,37 +139,25 @@ Penanda jawaban yang benar.
 
 Penanda dibutuhkan metode aktif.
 
-*Pop Up Allowed Method* saat *add an item* diklik.
-
-![](../../img/accountant-service/tab-methods-detail.png)
-
-#### <a name="field-method">Method</a>
-
-Nama Metode.
-
-#### <a name="field-method-code">Code</a>
-
-Kode Metode.
-
 #### <a name="tab-policy">TAB POLICY</a>
 
 ![](../../img/accountant-service/tab-policy.png)
 
 #### <a name="field-allowed-confirm">Allowed To Confirm</a>
 
-Apabila aktif user dapat mengkonfirmasi.
+Berhak/tidaknya user aktif untuk dapat mengkonfirmasi accountant service.
 
 #### <a name="field-allowed-validate">Allowed To Validate</a>
 
-Apabila aktif user dapat memvalidasi.
+Berhak/tidaknya user aktif untuk dapat memvalidasi accountant service.
 
 #### <a name="field-allowed-cancel">Allowed To Cancel</a>
 
-Apabila aktif user dapat membatalkan.
+Berhak/tidaknya user aktif untuk dapat membatalkan accountant service.
 
 #### <a name="field-allowed-restart">Allowed To Restart</a>
 
-Apabila aktif user dapat merestart.
+Berhak/tidaknya user aktif untuk dapat merestart accountant service.
 
 #### <a name="tab-description">TAB DESCRIPTION</a>
 
