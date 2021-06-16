@@ -17,7 +17,7 @@ Informasi pada *Accountant Service* dibagi menjadi beberapa bagian, yaitu:
 
 #### <a name="field-name">Name</a>
 
-Nama accountant service.
+Nama jasa yang diberikan oleh akuntan.
 
 #### <a name="field-internal-ref">Internal Reference</a>
 
@@ -29,7 +29,7 @@ Penanda status accountant service aktif.
 
 #### <a name="field-assurance-service">Assurance Service</a>
 
-Penanda status assurance service aktif.
+Jasa assurance apabila aktif. Jasa non-assurance apabila tidak aktif.
 
 #### <a name="field-code">Code</a>
 
@@ -54,13 +54,17 @@ Kode Python untuk membuat nomor urut yang diinginkan.
 
 ![](../../img/accountant-service/tab-signing-partner.png)
 
+#### <a name="field-signing-partner-table">Tabel Signing Partner</a>
+
+Daftar akuntan publik yang diperbolehkan untuk bertanggung jawab terhadap jasa
+
 *Pop Up Signing Partner* saat *add an item* diklik.
 
 ![](../../img/accountant-service/tab-signing-partner-detail.png)
 
 #### <a name="field-signing-partner">Signing Partner</a>
 
-Partner yang ditunjuk.
+Nama akuntan publik.
 
 #### <a name="field-sequence">Sequence</a>
 
@@ -68,19 +72,23 @@ Nomor urut.
 
 #### <a name="field-allowed-to-confirm">Allowed To Confirm</a>
 
-Berhak/tidaknya user aktif untuk dapat mengkonfirmasi accountant service.
+Daftar kelompok pengguna yang diperbolehkan untuk mengkonfimasi accountant report dengan signing partner yang sesuai dengan isian Signing Partner dan jasa terkait.
+
+#### <a name="field-allowed-to-finalization">Allowed To Finalization</a>
+
+Daftar kelompok pengguna yang diperbolehkan untuk memfinalisasi accountant report dengan signing partner yang sesuai dengan isian Signing Partner dan jasa terkait.
 
 #### <a name="field-allowed-to-validate">Allowed To Validate</a>
 
-Berhak/tidaknya user aktif untuk dapat memvalidasi accountant service.
+Daftar kelompok pengguna yang diperbolehkan untuk memvalidasi accountant report dengan signing partner yang sesuai dengan isian Signing Partner dan jasa terkait.
 
 #### <a name="field-allowed-to-cancel">Allowed To Cancel</a>
 
-Berhak/tidaknya user aktif untuk dapat membatalkan accountant service.
+Daftar kelompok pengguna yang diperbolehkan untuk membatalkan accountant report dengan signing partner yang sesuai dengan isian Signing Partner dan jasa terkait.
 
 #### <a name="field-allowed-to-restart">Allowed To Restart</a>
 
-Berhak/tidaknya user aktif untuk dapat merestart accountant service.
+Daftar kelompok pengguna yang diperbolehkan untuk merestart accountant report dengan signing partner yang sesuai dengan isian Signing Partner dan jasa terkait.
 
 #### <a name="tab-opinions">TAB OPINIONS</a>
 
@@ -88,11 +96,19 @@ Berhak/tidaknya user aktif untuk dapat merestart accountant service.
 
 #### <a name="field-opinion-required">Opinion Required</a>
 
-Penanda dibutuhkan opinion aktif.
+Laporan akhir jasa membutuhkan opini apabila aktif. Laporan akhir jasa tidak membutuhkan opini apabila tidak aktif.
+
+#### <a name="field-opinion-table">Tabel Opinion</a>
+
+Daftar opini yang boleh diberikan terkait jasa.
 
 #### <a name="tab-quality-control">TAB QUALITY CONTROL</a>
 
 ![](../../img/accountant-service/tab-quality-control.png)
+
+#### <a name="field-quality-control-table">Tabel Quality Control</a>
+
+Daftar item-item yang harus diuji terhadap laporan akhir jasa.
 
 *Pop Up Questions* saat *add an item* diklik.
 
@@ -137,7 +153,11 @@ Penanda jawaban yang benar.
 
 #### <a name="field-method-required">Method Required</a>
 
-Penanda dibutuhkan metode aktif.
+Penyelesaian jasa membutuhkan penggunaan metode tertentu apabila aktif. Penyelesaian jasa tidak membutuhkan penggunaan metode tertentu apabila tidak aktif.
+
+#### <a name="field-method-table">Tabel Method</a>
+
+Daftar metode yang dapat dipergunakan untuk menyelesaikan jasa.
 
 #### <a name="tab-policy">TAB POLICY</a>
 
@@ -145,19 +165,23 @@ Penanda dibutuhkan metode aktif.
 
 #### <a name="field-allowed-confirm">Allowed To Confirm</a>
 
-Berhak/tidaknya user aktif untuk dapat mengkonfirmasi accountant service.
+Daftar kelompok pengguna yang diperbolehkan untuk mengkonfimasi accountant report dengan jasa terkait.
+
+#### <a name="field-allowed-finalization">Allowed To Finalization</a>
+
+Daftar kelompok pengguna yang diperbolehkan untuk memfinalisasi accountant report dengan jasa terkait.
 
 #### <a name="field-allowed-validate">Allowed To Validate</a>
 
-Berhak/tidaknya user aktif untuk dapat memvalidasi accountant service.
+Daftar kelompok pengguna yang diperbolehkan untuk memvalidasi accountant report dengan jasa terkait.
 
 #### <a name="field-allowed-cancel">Allowed To Cancel</a>
 
-Berhak/tidaknya user aktif untuk dapat membatalkan accountant service.
+Daftar kelompok pengguna yang diperbolehkan untuk membatalkan accountant report dengan jasa terkait.
 
 #### <a name="field-allowed-restart">Allowed To Restart</a>
 
-Berhak/tidaknya user aktif untuk dapat merestart accountant service.
+Daftar kelompok pengguna yang diperbolehkan untuk merestart accountant report dengan jasa terkait.
 
 #### <a name="tab-description">TAB DESCRIPTION</a>
 
