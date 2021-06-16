@@ -85,6 +85,10 @@ Penanda status dibutuhkan opini aktif.
 
 Nama opini.
 
+#### <a name="field-draft-report-attachment">Draft Report Attachment</a>
+
+Lampiran draft laporan.
+
 #### <a name="field-main-report-attachment">Main Report Attachment</a>
 
 Lampiran laporan utama.
