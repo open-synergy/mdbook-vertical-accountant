@@ -2,7 +2,7 @@
 
 ## A. START
 
-* Condition: Ada kebutuhan untuk merilis Assurance Report.
+* Condition: Ada Assurance Report Yang Akan Diterbitkan.
 
 ## B. ROLE YANG TERLIBAT
 
@@ -44,4 +44,4 @@
 
 ## D. END
 
-*Message:* Assurance Report selesai diproses.
+*Message:* Assurance Report selesai diterbitkan.
