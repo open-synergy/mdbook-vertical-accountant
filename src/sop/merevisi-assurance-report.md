@@ -56,4 +56,4 @@
 
 ## D. END
 
-*Message:* Assurance Report selesai diproses.
+*Message:* Assurance Report selesai direvisi.

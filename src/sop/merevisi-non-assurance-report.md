@@ -56,4 +56,4 @@
 
 ## D. END
 
-*Message:* Non-Assurance Report selesai diproses.
+*Message:* Non-Assurance Report selesai direvisi.

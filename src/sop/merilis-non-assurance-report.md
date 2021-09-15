@@ -2,7 +2,7 @@
 
 ## A. START
 
-* Condition: Ada kebutuhan untuk merilis Non-Assurance Report.
+* Condition: Ada Non-Assurance Report Yang Akan Diterbitkan.
 
 ## B. ROLE YANG TERLIBAT
 
@@ -44,4 +44,4 @@
 
 ## D. END
 
-*Message:* Non-Assurance Report selesai diproses.
+*Message:* Non-Assurance Report selesai diterbitkan.
