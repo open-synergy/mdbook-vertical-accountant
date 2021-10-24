@@ -1,0 +1,1 @@
+# Menonaktifkan Computation Item
