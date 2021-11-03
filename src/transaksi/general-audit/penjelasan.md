@@ -48,7 +48,7 @@ Nama akuntan.
 
 Jumlah audit berturut-turut (firma).
 
-#### <a name="field-field-num-audit-accountant">Num. of Consecutive Audit (Accountant)</a>
+#### <a name="field-num-audit-accountant">Num. of Consecutive Audit (Accountant)</a>
 
 Jumlah audit berturut-turut (akuntan).
 
