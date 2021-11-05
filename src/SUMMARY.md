@@ -44,7 +44,7 @@
         - [Merestart Persetujuan General Audit](./transaksi/general-audit/merestart-persetujuan.md)
         - [Membatalkan General Audit](./transaksi/general-audit/membatalkan.md)
         - [Merestart General Audit](./transaksi/general-audit/merestart.md)
-    - [Trial Balance](./transaksi/general-audit.md)     
+    - [Trial Balance](./transaksi/trial-balance.md)     
         - [Penjelasan Trial Balance](./transaksi/trial-balance/penjelasan.md)
         - [Membuat Trial Balance](./transaksi/trial-balance/membuat.md)             
         - [Memodifikasi Trial Balance](./transaksi/trial-balance/memodifikasi.md)
