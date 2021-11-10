@@ -1,6 +1,6 @@
 # Penjelasan Trial Balance
 
-Informasi pada *Trial* dibagi menjadi beberapa bagian, yaitu:
+Informasi pada *Trial Balance* dibagi menjadi beberapa bagian, yaitu:
 
 * [Header](#bagian-header)
 * [Tab Detail](#tab-detail)
