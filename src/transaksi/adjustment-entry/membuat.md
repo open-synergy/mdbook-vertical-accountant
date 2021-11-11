@@ -15,7 +15,7 @@
 4. Pilih **[# General Audit](./penjelasan.md#field-no-general-audit)**. Wajib diisi.
 5. Pilih **[Adjustment Type](./penjelasan.md#field-adjustment-type)**. Wajib diisi.
 6. Beralih ke tab **[Details](./penjelasan.md#tab-details)**.
-7. <a name="l8">[Tambah](./menambahkan-detail.md)/[Modifikasi](./memodifikasi-detail.md)/[Hapus](./menghapus-detail.md) **Details**</a>. Ulangi langkah ini sampai **Details** sesuai dengan keinginan.
+7. <a name="l7">[Tambah](./menambahkan-detail.md)/[Modifikasi](./memodifikasi-detail.md)/[Hapus](./menghapus-detail.md) **Details**</a>. Ulangi langkah ini sampai **Details** sesuai dengan keinginan.
 8. Klik tombol **Save** pada bagian atas-kiri form.
 
 ![](../../img/adjustment-entry/tombol-simpan.png)
