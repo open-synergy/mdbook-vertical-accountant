@@ -86,6 +86,7 @@
             - [Membuat Index A.110.2](./transaksi/general-audit-worksheet/index-a1102/membuat.md)
             - [Memodifikasi Index A.110.2](./transaksi/general-audit-worksheet/index-a1102/memodifikasi.md)
             - [Menghapus Index A.110.2](./transaksi/general-audit-worksheet/index-a1102/menghapus.md)
+            - [Mengkonfirmasi Index A.110.2](./transaksi/general-audit-worksheet/index-a1102/mengkonfirmasi.md)
             - [Menyetujui Index A.110.2](./transaksi/general-audit-worksheet/index-a1102/menyetujui.md)
             - [Menolak Index A.110.2](./transaksi/general-audit-worksheet/index-a1102/menolak.md)
             - [Merestart Persetujuan Index A.110.2](./transaksi/general-audit-worksheet/index-a1102/merestart-persetujuan.md)
