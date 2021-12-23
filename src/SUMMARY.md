@@ -119,6 +119,7 @@
             - [Membuat Index A.130](./transaksi/general-audit-worksheet/index-a130/membuat.md)
             - [Memodifikasi Index A.130](./transaksi/general-audit-worksheet/index-a130/memodifikasi.md)
             - [Menghapus Index A.130](./transaksi/general-audit-worksheet/index-a130/menghapus.md)
+            - [Mengkonfirmasi Index A.130](./transaksi/general-audit-worksheet/index-a130/mengkonfirmasi.md)
             - [Menyetujui Index A.130](./transaksi/general-audit-worksheet/index-a130/menyetujui.md)
             - [Menolak Index A.130](./transaksi/general-audit-worksheet/index-a130/menolak.md)
             - [Merestart Persetujuan Index A.130](./transaksi/general-audit-worksheet/index-a130/merestart-persetujuan.md)
