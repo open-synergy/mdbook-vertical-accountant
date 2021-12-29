@@ -1,6 +1,6 @@
 # Penjelasan Index A.210
 
-Informasi pada *Index A.130* dibagi menjadi beberapa bagian, yaitu:
+Informasi pada *Index A.210* dibagi menjadi beberapa bagian, yaitu:
 
 * [Header](#bagian-header)
 * [Tab Materiality](#tab-materiality)

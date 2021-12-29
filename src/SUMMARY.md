@@ -141,6 +141,7 @@
             - [Membuat Index A.210.1](./transaksi/general-audit-worksheet/index-a2101/membuat.md)
             - [Memodifikasi Index A.210.1](./transaksi/general-audit-worksheet/index-a2101/memodifikasi.md)
             - [Menghapus Index A.210.1](./transaksi/general-audit-worksheet/index-a2101/menghapus.md)
+            - [Mengkonfirmasi Index A.210.1](./transaksi/general-audit-worksheet/index-a2101/mengkonfirmasi.md)
             - [Menyetujui Index A.210.1](./transaksi/general-audit-worksheet/index-a2101/menyetujui.md)
             - [Menolak Index A.210.1](./transaksi/general-audit-worksheet/index-a2101/menolak.md)
             - [Merestart Persetujuan Index A.210.1](./transaksi/general-audit-worksheet/index-a2101/merestart-persetujuan.md)
